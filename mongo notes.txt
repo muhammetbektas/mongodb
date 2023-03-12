@@ -1,0 +1,2 @@
+1-To connect mongo shell
+mongosh mongodb://localhost:27017 -u rootuser -p rootpass
